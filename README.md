@@ -5,7 +5,7 @@ It automatically logs in when you type the respective command in the terminal.
 
 
 <h2>For installing:</h2>
-<h4>1.) git clone https://github.com/dynamite-bud/PU-Login-CLI.git</h4>
+<h4>1.) git clone https://github.com/yugbans66/Panjab-University-WiFi-CLI.git</h4>
 <h4>2.) cd ./PU-Login-CLI</h4>
 <h4>3.) ./install.sh</h4>
 <h4>4.) #Type pulogin on terminal for login or pulogout for logout</h4>
